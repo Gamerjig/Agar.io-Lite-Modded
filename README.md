@@ -1,10 +1,29 @@
-# How to use!  
-1 - Download the file  
-2 - Then click it 2 times for it to open and it will open google or whatever browser you use  
-3 - Just play the game  
-# Mod info  
-The mod menu is in the top left  
-This mod adds 3 things!  
-1 - You can now pick your player color  
-2 - You can change the speed of the circles that come at you  
-3 - You can see your score in the top left
+# Agar.io Lite Mods by GamerJig
+
+This is a modded version of **Agar.io Lite** that adds a few cool features:
+
+- Change your player color
+- Adjust the circles' speed
+- See your current score
+- Earn **2 points** when eating a circle of the same color
+
+## How to Use
+
+1. Open the game in your browser.  
+2. Use the UI in the top-left corner to:  
+   - Pick your player color  
+   - Change the speed of circles  
+3. Click the canvas to start playing.  
+4. Avoid bigger circles and eat smaller ones!  
+
+## Notes
+
+- The mod is made for fun and personal use.  
+- Score increases faster if you eat a circle of the **same color**.  
+
+## Credits
+
+- **GamerJig** – Mod developer  
+- Original **Agar.io Lite** game  
+
+Enjoy playing!
